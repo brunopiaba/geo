@@ -1,4 +1,4 @@
-Highcharts.maps["countries/us/us-mt-all"] = {
+Highcharts.maps["us-mt-all"] = {
 	"title": "Montana",
 	"version": "1.1.4",
 	"type": "FeatureCollection",
